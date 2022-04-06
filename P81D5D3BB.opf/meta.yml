@@ -1,0 +1,31 @@
+id: P81D5D3BB
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1PD105780
+  instance_id: http://purl.bdrc.io/resource/IE1PD105780
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཕྱུགས་ལས་རྒྱུན་ཤེས།
+  alt_title:
+    zh-hans:
+    - 农牧区畜牧兽医常识
+  author: http://purl.bdrc.io/resource/P1KG12915
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    de78318c3ff0475aad6bda9106293845:
+      title: པོད ༡་ཕྱུགས་ལས་རྒྱུན་ཤེས།
+      volume_number: 1
+      base_file: UT1PD105780_I1PD105782_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7CF290424128F953
+      image_group: I1PD105782
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1PD105780
+  - http://purl.bdrc.io/resource/MW1PD105780
+  ocr_software: Namsel
+created_at: '2021-12-22T11:01:49.135022'
+last_modified_at: '2021-12-22T11:01:49.135028'
